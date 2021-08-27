@@ -3,7 +3,7 @@ AutoMailer in PowerShell. Sends E-Mails using given G-Mail account
 
 ---
 
-To work, the folder "AutoMailer" has to be copied to `Userprofile\Documents\`
+To work, the folder "AutoMailer" has to be copied to your **Documents** folder!
 
 pLEaSe dO nOT UsE ThIS pROgrAM aS a SpaMBot
 
